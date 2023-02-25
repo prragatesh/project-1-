@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>blogger</title>
+    
+    <link rel="stylesheet" href="./css/owl.carousel.min.css">
+    <link rel="stylesheet" href="./css/owl.theme.default.min.css">
+    <!-- cusstom style-->
+    <link rel="stylesheet" href="./css/Style.css">
+
+    <!---owl-corusal-->
+    
+    <script src="https://kit.fontawesome.com/45240079d1.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<!------------------navigation---------------------------->
+
+    <header>
+    <div class="header-content ">
+       <div>
+            <a href="#" class="text">Blogger</a>
+         </div>
+        
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>  
+                <li><a href="#">Categories</a></li>
+                <li><a href="#">Pages</a></li>
+                <li><a href="#">Archive </a></li>
+                        </ul>
+                        <div class="icons">
+                        <i class="fa-solid fa-bars"></i>
+                        </div></div>
+                        
+                        <div class="text-center">
+                        <h2>Welcome TO</h2>
+                         <h1>Blogging site</h1>
+                        
+                        <button class ="btna" href="#">post your blogs</button>
+                        </div>
+                        
+                </header>
+ <!--------------------blog carousal--------->
+ 
+ <section>
+    <div class="blog">
+<div class="container">
+<div class="owl-carousel owl-theme blog-post">
+<div class="blog-content">
+<img src="../assets/Blog-post/post-1.jpg" alt="post-1">
+<div class="blog-title">
+<h3>Global Alliance for the Future of Food</h3>
+<button class="btn btn-blog">FOOD</button>
+<span>7 minutes</span>
+</div>
+</div>
+<div class="blog-content">
+<img src="../assets/Blog-post/post-2.jpg" alt="post-1">
+<div class="blog-title">
+<h3>Top 10 Best Career Options in Future</h3>
+<button class="btn btn-blog">JOBS</button>
+<span> 16 minutes</span>
+</div>
+</div>
+<div class="blog-content">
+<img src="../assets/Blog-post/post-3.jpg" alt="post-1">
+<div class="blog-title">
+<h4>SETTING THE STAGE FOR THE FUTURE OF VACAVILLE’S CULTURAL ARTS</h4>
+<button class="btn btn-blog">ENTERTAINMENT</button>
+<span>5 minutes</span>
+</div>
+</div>
+<div class="blog-content">
+<img src="../assets/Blog-post/post-5.png" alt="post-1">
+<div class="blog-title">
+<h3>TOP 10 Best Travel Destinations</h3>
+<button class="btn btn-blog">TRAVEL</button>
+<span>10 minutes</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+ <!-----------------blog carousal--------->           
+<!-------------site content------------>
+
+<section class="container">
+    <div class="site-content">
+        <div class="post">
+     <div class="post-content">
+        <div class="post-image">
+        <div>
+    <img src="./assets/Blog-post/blog1.png" class="img" alt="blog1">
+        </div>
+        <div class="post-info">
+         <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;ADMIN&nbsp;&nbsp;</span>   
+         <span><i class="fas fa-calendar text-gray"></i>&nbsp;&nbsp;january-14-2022&nbsp;&nbsp;</span>   
+         <span class="2comments">3comments</i></span>   
+        </div>
+     </div>
+     <div class="post-title">
+            <a href="#">why should boys have all fun? it's the women who are making india loving country</a>
+        <p>Gender equality is at the very heart of human rights and United Nations values. Equality and non-discrimination are fundamental principles of the United Nations Charter, adopted by world leaders in 1945.
+
+            Yet millions of women and LGBTI persons around the world continue to experience discrimination in the enjoyment of civil, cultural, economic, political and social rights.</p>
+    <button class="btn post-btn">read more&nbsp;<i class="fas fa-arrow-right"></i></i></button>  
+
+    </div>
+        </div>  
+    <hr>
+     <div class="post-content">
+        <div class="post-image">
+        <div>
+    <img src="./assets/Blog-post/blog2.png" class="img" alt="blog1">
+        </div>
+        <div class="post-info">
+         <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;ADMIN&nbsp;&nbsp;</span>   
+         <span><i class="fas fa-calendar text-gray"></i>&nbsp;&nbsp;December-30-2023&nbsp;&nbsp;</span>   
+         <span class="2comments">3comments</i></span>   
+        </div>
+     </div>
+     <div class="post-title">
+            <a href="#">The Health and Mood-Boosting Benefits of Pets</a>
+        <p>Most pet owners are clear about the immediate joys that come with sharing their lives with companion animals. However, many of us remain unaware of the physical and mental health benefits that can also accompany the pleasure of snuggling up to a furry friend. It’s only recently that studies have begun to scientifically explore the benefits of the human-animal bond.</p>
+    <button class="btn post-btn">read more&nbsp;<i class="fas fa-arrow-right"></i></i></button>  
+
+        </div>
+        </div>  
+     <hr>
+        </div>
+       <aside class="sidebar">
+        <h1>category</h1>
+        <ul class="category-list">
+            <li class="list-item">
+                <a href="#">Software</a>
+                <span>(05)</span>
+            </li>
+            <li class="list-item">
+                <a href="#">Technolog</a>
+                <span>(05)</span>
+            </li>
+            <li class="list-item">
+                <a href="#">Lifestyle</a>
+                <span>(05)</span>
+            </li>
+            <li class="list-item">
+                <a href="#">shopping</a>
+                <span>(01)</span>
+            </li>
+            <li class="list-item">
+                <a href="#">Food</a>
+                <span>(08)</span>
+            </li>
+        </ul>
+        
+<div class="popular-post">
+    <h2>Popular Post</h2>
+    <div class="post-content">
+        
+            <div class="post-image">
+            <div>
+        <img src="./assets/popular-post/m-blog-2.jpg" class="img" alt="blog1">
+            </div>
+            <div class="post-info">
+             <span><i class="fas fa-user text-gray"></i>&nbsp;&nbsp;ADMIN&nbsp;&nbsp;</span>   
+             <span><i class="fas fa-calendar text-gray"></i>&nbsp;&nbsp;january-14-2022&nbsp;&nbsp;</span>   
+             <span class="2comments">3comments</i></span>   
+            </div>
+         </div>
+         <div class="post-title">
+                <a href="#">New data recording for the road accidents</a>
+         </div>
+         </div>
+</div>
+        
+         <div class="newsletter">
+        <h2>News letter</h2>
+        <div class="formelement">
+        <input type="text" class="input-element" placeholder="Email">
+        <button class="btn form-btn">subscribe</button>
+        </div>
+        </div>
+
+           </div>
+          </div>
+
+        </aside> 
+        </div>
+</section>
+<!-------------site content------------>
+
+<!-----------footer----------------->
+ 
+<!-----------footer----------------->
+
+<footer class="footer">
+    <div class="container">
+        <div class="about-us" data-aos="fade-right" data-aos-delay="200">
+            <h2>About us</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quia atque nemo ad modi officiis
+                iure, autem nulla tenetur repellendus.</p>
+        </div>
+        <div class="newsletter" data-aos="fade-right" data-aos-delay="200">
+            <h2>Newsletter</h2>
+            <p>Stay update with our latest</p>
+            <div class="form-element">
+                <input type="text" placeholder="Email"><span><i class="fas fa-chevron-right"></i></span>
+            </div>
+        </div>
+        <div class="instagram" data-aos="fade-left" data-aos-delay="200">
+            <h2>Instagram</h2>
+            <div class="flex-row">
+                <img src="./assets/instagram/thumb-card3.png" alt="insta1">
+                <img src="./assets/instagram/thumb-card4.png" alt="insta2">
+                <img src="./assets/instagram/thumb-card5.png" alt="insta3">
+            </div>
+            <div class="flex-row">
+                <img src="./assets/instagram/thumb-card6.png" alt="insta4">
+                <img src="./assets/instagram/thumb-card7.png" alt="insta5">
+                <img src="./assets/instagram/thumb-card8.png" alt="insta6">
+            </div>
+        </div>
+        <div class="follow" data-aos="fade-left" data-aos-delay="200">
+            <h2>Follow us</h2>
+            <p>Let us be Social</p>
+            <div>
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-twitter"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-youtube"></i>
+            </div>
+        </div>
+    </div>
+    
+    </div>
+    <div class="move-up">
+        <span><i class="fas fa-arrow-circle-up fa-2x"></i></span>
+    </div>
+</footer>
+
+
+<!------------------navigation---------------------------->
+    <!-- custom javascript file-->
+<script src="./js/jquery3.6.3.min.js"></script>
+    <script src="./js/owl.carousel.min.js"></script>
+    <script src="./js/main.js"></script>
+
+<script src="./app.js"></script>
+</body>
+</html>   
